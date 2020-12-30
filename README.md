@@ -15,5 +15,5 @@ The best model was the first one in the RMD file. it is a Forecast, applied in A
 Here you can see a comparing plot with the 3 best models:
 
 
-<img src="./PRINT_EXAMPLES/image_1.jpeg" height="600" width="300">
+<img src="./print_examples/image_1.jpeg" height="600" width="300">
 

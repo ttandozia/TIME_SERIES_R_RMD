@@ -1,6 +1,6 @@
 **Hello!**
 
-Implementation of a Time Series for Gross Domestic Product with USA data. Built in R, and using several approches for forecasting:
+Implementation of a Time Series for Gross Domestic Product with USA data. Built in R, and using several approaches for forecasting:
 
 * Arima with BoxCox Transformation and cleaning process;
 * Regression with trend + unemployment variable as predictive feature;
